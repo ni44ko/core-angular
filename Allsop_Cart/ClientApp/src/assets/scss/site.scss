@@ -1,0 +1,17 @@
+@import './../../assets/scss/variables.scss';
+html,body{
+
+}
+
+body {
+    font-family: $font-family-montserrat;
+    background-color: #fff !important;
+    color: $color-body-text;
+}
+
+//align text vertically
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
