@@ -1,11 +1,16 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Allsop_Cart.Models
+namespace CoreWithAngularTemplate.Models
 {
-    public class DataContext
+    public class DataContext: DbContext
     {
+        public DataContext(DbContextOptions<DataContext> options) : base(options) { }
+
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }

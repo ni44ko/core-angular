@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Allsop_Cart
+namespace CoreWithAngularTemplate
 {
     public class Program
     {

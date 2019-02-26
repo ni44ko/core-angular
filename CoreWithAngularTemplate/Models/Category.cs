@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Allsop_Cart.Models
+namespace CoreWithAngularTemplate.Models
 {
     public class Category
     {

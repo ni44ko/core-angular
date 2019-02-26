@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWithAngularTemplate", "Allsop_Cart\CoreWithAngularTemplate.csproj", "{81079B79-B041-4DCE-981D-10C5BE675B75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWithAngularTemplate", "CoreWithAngularTemplate\CoreWithAngularTemplate.csproj", "{FF40B863-595F-4038-9475-F1F08578A7D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81079B79-B041-4DCE-981D-10C5BE675B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81079B79-B041-4DCE-981D-10C5BE675B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81079B79-B041-4DCE-981D-10C5BE675B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81079B79-B041-4DCE-981D-10C5BE675B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF40B863-595F-4038-9475-F1F08578A7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF40B863-595F-4038-9475-F1F08578A7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF40B863-595F-4038-9475-F1F08578A7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF40B863-595F-4038-9475-F1F08578A7D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
